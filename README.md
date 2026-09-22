@@ -99,3 +99,6 @@
   <a href="https://wpa.qq.com/msgrd?v=3&uin=3200977246&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" /></a>
   <a href="https://t.me/chaosjacker"><img src="https://img.shields.io/badge/TELEGRAM-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=chaosjacker&fontSize=70&fontColor=ffffff" />
+</p>
